@@ -3,4 +3,4 @@ echo 'alias rl="conda activate RL"' >> ~/.bashrc
 source ~/.bashrc
 rl
 
-pip install gym stable_baselines3 env pathlib pandas matplotlib</code></pre>
+pip install gym stable_baselines3 env pathlib pandas matplotlib torch</code></pre>
