@@ -3,4 +3,5 @@ echo 'alias rl="conda activate RL"' >> ~/.bashrc
 source ~/.bashrc
 rl
 
-pip install gym stable_baselines3 env pathlib pandas matplotlib torch</code></pre>
+pip install random numpy pandas matplotlib pathlib pillow gymnasium stable-baselines3 imageio
+pip install torch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 --index-url https://download.pytorch.org/whl/cu121</code></pre>
